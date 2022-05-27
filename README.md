@@ -8,4 +8,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 try to use this link go to the element you want and explore....
 
+Output for all Codes is Here..
+https://htmlforbegineers-c4756.web.app/
+
 enjoy learning
